@@ -1,3 +1,6 @@
+
+( HTML | CSS | JS )
+
 🌿 FreshiFy – Smart Food Freshness Detection App
 
 FreshiFy is an intelligent mobile application that detects food freshness using image recognition (MobileNetV2) and gas sensor (MQ-135) data. The app connects to a Flask backend with MongoDB, providing real-time spoilage detection, live NH₃ monitoring, and visual analytics dashboards.
